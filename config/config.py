@@ -1,0 +1,6 @@
+DB_URL = "postgresql://username:password!@localhost/your_db"
+BEARER_TOKEN = "Your bearer token"
+API_KEY = "Your API key"
+TRENDING_TODAY_URL = "https://api.themoviedb.org/3/trending/movie/day?language=en-US"
+POPULAR_BASE_URL = "https://api.themoviedb.org/3/movie/popular?language=en-US"
+PEOPLE_TRENDING = "https://api.themoviedb.org/3/trending/person/day?language=en-US"
